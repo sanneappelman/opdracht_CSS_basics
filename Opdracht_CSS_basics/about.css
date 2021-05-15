@@ -1,0 +1,29 @@
+h1{
+    color:#14213d;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:30px;
+    font-style:italic;
+}
+
+body {
+    background-color: #eae2b7;
+}
+
+.groep1 {
+    color:#003049;
+    border-color: #fcbf49;
+    border-style:outset;
+    border-radius:10px;
+}
+
+.groep2 {
+    color:#343a40;
+    border-color: #d62828;
+    border-style: dotted;
+    border-radius:5px;
+}
+
+#foto1 {
+    border-style:double;
+    border-color:#f77f00;
+}

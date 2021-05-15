@@ -1,0 +1,39 @@
+body {
+    font-family: 'KoHo', sans-serif;
+    background-color:#f4f1de ;
+}
+h1 {
+    font-style:italic;
+    color:#3d405b;
+    font-size:50px;
+}
+
+#naam {
+    font-size:30px;
+    color:#3d405b;
+    border-color:black;
+    border-style:groove;
+    border-width:thin;
+}
+
+#groep1 {
+    border-color:#81b29a;
+    border-style:double;
+    border-width:5px;
+    color:#e07a5f;
+    Font-style:bold;
+    font-size:20px;
+}
+
+.groep2 {
+    background-color:#f2cc8f;
+    font-size:15px;
+    font-family: sans-serif;
+    font-weight:lighter;
+    border-color:#81b29a;
+    border-top-style:dotted;
+    border-left-style:double;
+    border-right-style:double;
+    border-bottom-style:dotted;
+    border-width:5px;
+}
